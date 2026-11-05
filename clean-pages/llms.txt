@@ -1,0 +1,37 @@
+# Progzt Aetheric
+
+> Progzt Aetheric is an AI and software engineering organization founded by Mohamed Elsayed Otman (محمد السيد عتمان).
+
+## Overview
+
+Progzt Aetheric (also known as Progzt) builds software and digital products. Its areas of focus include custom agent architectures, Monster AI, web development, games, applications, and digital systems. Progzt Aetheric was previously known as Progzt United.
+
+## Mission
+
+Design and develop useful digital products and intelligent software systems, combining software engineering with AI and custom agent architectures.
+
+## Founder
+
+Mohamed Elsayed Otman (محمد السيد عتمان) is an Egyptian entrepreneur and software developer, and the founder of Progzt Aetheric. His documented journey starts with interface design under the Progzt name in 2016, followed by Progzt United in 2017, Progzt Intelligence and Progzt AI in 2020, Progzt TSD in 2022, an NVB partnership and expansion in 2024, Progzt Studios in 2025, and the Progzt Aetheric name in 2026.
+
+## Technology
+
+- The public website has five pages: home, organization overview, founder profile and journey, DuckDuckGo search, and contact/social links.
+- The site uses a shared black-and-white stylesheet and responsive navigation.
+- The search page uses the DuckDuckGo Instant Answer API for summaries and related topics; full web results open on DuckDuckGo.
+- Product and engineering focus: AI, intelligent web systems, custom agent architectures, software engineering, and digital systems.
+- Specific AI model providers, frameworks, and infrastructure are not identified in the public project files.
+
+## Projects and organization
+
+- **Monster AI**: An AI project identified as part of Progzt Aetheric's focus.
+- **Progzt AI**: An AI project named in the organization's website history.
+- **Progzt Intelligence**: An AI and technology-focused part of the wider Progzt organization.
+- **Progzt TSD**: A technology unit described on the website as having started within Progzt Intelligence.
+- **Progzt Studios**: A digital-project development unit within the organization.
+- **Progzt LEGEND** and **Zoro**: Companies described in the site's organization history as working across games, applications, and design.
+
+## Official links
+
+- Website: https://progzt-aetheric.github.io/
+- GitHub organization: https://github.com/Progzt-Aetheric
